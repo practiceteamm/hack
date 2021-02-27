@@ -8,7 +8,6 @@ $('.minus-btn').on('click', function (e) {
     var $this = $(this);
     var $input = $this.closest('div').find('input');
     var value = parseInt($input.val());
-
     if (value >= 1) {
         value = value - 1;
         quant -= 1000;
@@ -18,7 +17,7 @@ $('.minus-btn').on('click', function (e) {
     }
 
     $input.val(value);
-    console.log(quant)
+    $('#total').html(quant); //金額を反映
 
 });
 
@@ -27,8 +26,7 @@ $('.plus-btn').on('click', function (e) {
     e.preventDefault();
     var $this = $(this);
     var $input = $this.closest('div').find('input');
-    let value = parseInt($input.val());
-
+    var value = parseInt($input.val());
     if (value < 100) {
         value = value + 1;
         quant += 1000;
@@ -37,26 +35,45 @@ $('.plus-btn').on('click', function (e) {
     }
 
     $input.val(value);
-});
-// ここまで
-
-
-
-$('.plus-btn').click(function () {
-    var $this = $(this);
-    var $input = $this.closest('div').find('input');
-    let value = parseInt($input.val());
-
-    console.log(value);
     $('#total').html(quant); //金額を反映
 
 });
+$(".button").on("click", function () {
+    const total = $('#value').val(); //金額を反映
+    console.log(total)
+    const requestUrl = 'PrintSample.php'; // リクエスト送信先のファイル
+    axios.get(`${requestUrl}?total=${total}`) // リクエスト送信
+    // .then(function (response) {
+    //     console.log(response);
+    //     const output = [];
+    //     response.data.forEach(function (x) {
+    //         output.push(`<tr><td>${x.todo}<td><tr>`)
+    //     });
+    //     $('#result').html(output);
+    // })
+    // .catch(function (error) {
+    //     console.log(error);
+    // })
+    // .finally();
+})
 
-$('.minus-btn').click(function () {
-    var $this = $(this);
-    var $input = $this.closest('div').find('input');
-    let value = parseInt($input.val());
 
-    $('#total').html(quant); //金額を反映
-});
+
+
+// $('.plus-btn').click(function () {
+//     var $this = $(this);
+//     var $input = $this.closest('div').find('input');
+
+//     ;
+//     $('#total').html(quant); //金額を反映
+
+// });
+
+// $('.minus-btn').click(function () {
+//     var $this = $(this);
+//     var $input = $this.closest('div').find('input');
+
+
+//     $('#total').html(quant); //金額を反映
+// });
 
