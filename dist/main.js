@@ -1,6 +1,4 @@
-document.getElementById("signin").addEventListener("click", () => {
-    location.href = "../login/login.html"
-});
+
 document.getElementById("qupon").addEventListener("click", () => {
     location.href = "../cart.html"
 });
