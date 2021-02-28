@@ -62,7 +62,7 @@ $money = $_SESSION["money"];
     <div class="container">
       <div class="header">
         <div class="header-title">
-          <h2>系列店舗</h2>
+          <h2>参画店舗</h2>
           <span>私たちのサービスが使えるお店</span>
         </div>
         <div class="header-viewOptions">
@@ -96,7 +96,7 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">福岡 | 大名</span>
+              <span class="smallText">福島 | 会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
@@ -115,7 +115,7 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">福岡 | 薬院</span>
+              <span class="smallText">福島 | 会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
@@ -134,7 +134,7 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">福岡 | 博多</span>
+              <span class="smallText">福島 | 会津</span>
             </div>
           </div>
         </div>
@@ -155,7 +155,7 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">福岡 | 六本松</span>
+              <span class="smallText">福島 | 会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
@@ -174,7 +174,7 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">福岡 | 今泉</span>
+              <span class="smallText">福島 | 会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
@@ -193,7 +193,7 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">福岡 | 薬院</span>
+              <span class="smallText">福島 | 会津</span>
             </div>
           </div>
         </div>
@@ -226,13 +226,13 @@ $money = $_SESSION["money"];
         <div class="listings-col">
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1562967914-01efa7e87832?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80" alt="Listing pic">
+              <img src="../mainimg/nonbe.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>会津呑んべえ文化支援プロジェクト</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>お客様が減少した夜の街なかの活気を取り戻す</span>
                 </div>
               </div>
               <div class="rating">
@@ -240,18 +240,18 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1301&q=80" alt="Listing pic">
+              <img src="../mainimg/agabeko.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>あいづあかべこプロジェクト</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>「赤べこ」をシンボルとし、地域や観光業界を活性化</span>
                 </div>
               </div>
               <div class="rating">
@@ -259,18 +259,18 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1532636875304-0c89119d9b4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" alt="Listing pic">
+              <img src="../mainimg/art.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>Aizu Art Project</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>あいずまちなかアートプロジェクト</span>
                 </div>
               </div>
               <div class="rating">
@@ -278,20 +278,20 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
         </div>
         <div class="listings-col">
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80" alt="Listing pic">
+              <img src="../mainimg/student.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab 222</h3>
+                <h3>会津★夢☆発見プロジェクト</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>高校生の部</span>
                 </div>
               </div>
               <div class="rating">
@@ -299,18 +299,18 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1506354666786-959d6d497f1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" alt="Listing pic">
+              <img src="../mainimg/aizu.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>極上の会津プロジェクト</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>極上の会津</span>
                 </div>
               </div>
               <div class="rating">
@@ -318,18 +318,18 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" alt="Listing pic">
+              <img src="../mainimg/iii.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>会津若松市 住宅支援 プロジェクト</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>会津若松市 住宅支援 プロジェクト</span>
                 </div>
               </div>
               <div class="rating">
@@ -337,7 +337,7 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
         </div>
@@ -370,13 +370,13 @@ $money = $_SESSION["money"];
         <div class="listings-col">
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1562967914-01efa7e87832?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80" alt="Listing pic">
+              <img src="../mainimg/rice.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>西会津 元気米</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>西会津の美味しいお米と野菜のセットです。</span>
                 </div>
               </div>
               <div class="rating">
@@ -384,18 +384,18 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">西会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1301&q=80" alt="Listing pic">
+              <img src="../mainimg/miso.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>会津のお味噌</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>こだわりの一品</span>
                 </div>
               </div>
               <div class="rating">
@@ -403,18 +403,18 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1532636875304-0c89119d9b4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" alt="Listing pic">
+              <img src="../mainimg/meika.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>銘菓</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>老舗和菓子</span>
                 </div>
               </div>
               <div class="rating">
@@ -422,20 +422,20 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
         </div>
         <div class="listings-col">
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80" alt="Listing pic">
+              <img src="../mainimg/kikurage.webp" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab 222</h3>
+                <h3>白い木耳</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>貴重な国産の白い木耳</span>
                 </div>
               </div>
               <div class="rating">
@@ -443,18 +443,18 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1506354666786-959d6d497f1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" alt="Listing pic">
+              <img src="../mainimg/begitable.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>西会津 ミネラル野菜</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>西会津の健康野菜</span>
                 </div>
               </div>
               <div class="rating">
@@ -462,18 +462,18 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">西会津</span>
             </div>
           </div>
           <div class="listings-grid-element">
             <div class="image">
-              <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80" alt="Listing pic">
+              <img src="../mainimg/bin.png" alt="Listing pic">
             </div>
             <div class="text">
               <div class="text-title">
-                <h3>German Doner Kebab</h3>
+                <h3>四号瓶 セット</h3>
                 <div class="info">
-                  <span>£4.99 delivery fee | 20-30 MINS | £</span>
+                  <span>飯豊の伏流水と西会津の気候がうまい酒を生む</span>
                 </div>
               </div>
               <div class="rating">
@@ -481,7 +481,7 @@ $money = $_SESSION["money"];
               </div>
             </div>
             <div class="text-lower">
-              <span class="smallText">German | Middle Eastern | Halal | Burger| Fast Food</span>
+              <span class="smallText">西会津</span>
             </div>
           </div>
         </div>
