@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="login.css">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="post.js" type="text/javascript"></script>
+    <title>Document</title>
+</head>
+
+<title>ログイン画面</title>
+
+<div class="frame">
+    <div class="box0">
+        <img src="">
+        <h3>Miyagieatsにログイン</h3>
+    </div>
+    <form action="todo_login_act.php" method="POST">
+        <div class="box1">
+            <label for="text1" id="l_text1">ユーザー名</label>
+            <input id="text1" type="text" name="username">
+        </div>
+        <div class="box1">
+            <label for="text2" id="l_text2">パスワード</label>
+            <input id="text2" type="password" name="password">
+        </div>
+        <button class="btn1" type="submit">ログイン</button>
+
+        <p>
+            <br>
+            <a href="#">パスワードをお忘れですか？</a>
+
+            <a href="register.html">アカウント作成</a>
+            <a href="../top.html">トップページへ</a>
+        </p>
+    </form>
+</div>
