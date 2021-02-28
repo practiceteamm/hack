@@ -350,7 +350,7 @@ $money = $_SESSION["money"];
     <div class="container">
       <div class="header">
         <div class="header-title">
-          <h2>返礼品一覧</h2>
+          <h2>ポイント交換商品</h2>
           <span>まだ見ぬ会津の魅力を発見しよう</span>
         </div>
         <div class="header-viewOptions">
