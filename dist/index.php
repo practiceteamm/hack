@@ -63,7 +63,7 @@ $money = $_SESSION["money"];
       <div class="header">
         <div class="header-title">
           <h2>参画店舗</h2>
-          <span>私たちのサービスが使えるお店</span>
+          <span>食べて地域を元気に!</span>
         </div>
         <div class="header-viewOptions">
           <!-- <div class="viewAll">
